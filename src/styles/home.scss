@@ -1,0 +1,40 @@
+.home-bg {
+    width: 100vw;
+    background-image: url("/assets/sky-6.png");
+    background-position: center; 
+    background-size: cover;
+}
+
+.highlight {
+    // letter-spacing: 5px;
+    cursor: pointer;
+    // font-weight: bold;
+    transition: 1s;
+}
+
+.hover-blue:hover {
+    color: #fff;
+    transition: 1s;
+    text-shadow: 0 0 5px #03e9f4,
+            0 0 25px #03e9f4,
+            0 0 50px #03e9f4,
+            0 0 100px #03e9f4;
+}
+
+.hover-red:hover {
+    color: #fff;
+    transition: 1s;
+    text-shadow: 0 0 5px #c74933,
+            0 0 25px #c74933,
+            0 0 50px #c74933,
+            0 0 100px #c74933;
+}
+
+.hover-yellow:hover {
+    color: #fff;
+    transition: 1s;
+    text-shadow: 0 0 5px #bcd30e,
+            0 0 25px #bcd30e,
+            0 0 50px #bcd30e,
+            0 0 100px #bcd30e;
+}
