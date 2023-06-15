@@ -14,6 +14,7 @@ export default function RootLayout({
     <html lang="en">
       <Head>
         <title>Anya Joy | Full Stack Developer</title>
+        <meta property="og:title" content="Anya Joy | Full Stack Developer" key="title" />
       </Head>
       <body className={inter.className}>{children}</body>
     </html>
