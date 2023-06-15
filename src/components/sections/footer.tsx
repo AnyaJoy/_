@@ -10,7 +10,7 @@ function Footer() {
     <div className="w-full text-center">
       <section className="one"></section>
       <section className="two relative">
-        <h5>I'm available for work, get in touch</h5>
+        <h5>I&#39;m available for work, get in touch</h5>
         <div className="grid grid-cols-4 m-auto w-9/12 sm:w-6/12 md:w-5/12 lg:w-3/12">
           {contacts.map(c => (
             <a key={c.name} className="col-span-1 project-link footer-link" href={c.href} target="_blank">

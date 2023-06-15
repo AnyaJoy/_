@@ -19,7 +19,7 @@ function Home() {
       <div className="grid grid-cols-1 lg:grid-cols-6 lg:gap-16 px-7 lg:px-48 lg:pt-0 pt-28 lg:h-screen lg:pb-0 pb-28">
         <div className="col-span-1 lg:col-span-4 self-center text-center lg:text-left">
           <p className="text-4xl md:text-5xl xl:text-6xl lg:pb-4 pb-2">
-            Hey, I'm{" "}
+            Hey, I&#39;m{" "}
             <Link
               className="highlight hover-blue"
               href="#about"
