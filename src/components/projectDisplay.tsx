@@ -27,6 +27,7 @@ function ProjectDisplay({p}:Props) {
                   <a
                     key={l.name}
                     className="col-span-1 project-link"
+                    // @ts-ignore
                     href={p[l.name]}
                     target="_blank"
                   >
