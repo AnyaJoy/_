@@ -11,7 +11,7 @@ function Notification({
 }) {
   return (
     <>
-      <div className="md:grid grid-cols-12 gap-3 ">
+      <div className="grid grid-cols-12 gap-3 ">
         <div className="col-span-3 ">
           <Image src={me} alt="me" className="chat-img" />
         </div>

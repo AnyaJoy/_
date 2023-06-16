@@ -8,7 +8,7 @@ function About() {
       <span id='about'></span>
       <Divider header="About me"/>
       <div className="about-container w-10/12 sm:w-7/12">
-        <h4 className='text-center mb-12'>I used to be an acrobat, a nursery teacher and now a software developer.</h4>
+        <h4 className='text-center mb-12 -mt-5'>I used to be an acrobat, a nursery teacher and now a software developer.</h4>
         {/* <div className='flex justify-center w-fit'> */}
 
           <div className="carousel-wrapper">

@@ -18,4 +18,4 @@ export const skills = [
     { name: "AWS", img: aws },
 ];
 
-export const message = {1: "😛 Oh, come on, what did you expect to happen here?", 2: "🤨 seriously?"}
+export const message = {1: "😛 Oh, come on, what did you expect to happen here?", 2: "🤨 no, really?"}

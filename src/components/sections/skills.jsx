@@ -36,11 +36,11 @@ function Skills() {
       <span id='skills'></span>
       <Divider header="Skills" />
       <section className="skills-container w-9/12 sm:w-7/12">
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-20 mt-8">
           {skills.map((s) => (
             <div
               key={""}
-              class="card 1 col-span-1 w-28 h-28 sm:w-40 sm:h-40 lg:w-36 lg:h-36 xl:w-44 xl:h-44 m-8"
+              class="card 1 col-span-1 w-28 h-28 sm:w-40 sm:h-40 lg:w-36 lg:h-36 xl:w-44 xl:h-44 justify-self-center"
               onClick={incrementMessage}
             >
               <div class="card_image">
