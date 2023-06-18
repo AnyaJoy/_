@@ -22,9 +22,10 @@ function ProjectDisplay({p}:Props) {
           <figure className="my-auto">
             <Image src={p.img} alt={p.name} className="project-image" />
             <figcaption>
-              <div className="grid grid-cols-3 my-auto">
+              <div className="flex justify-around my-auto">
                 {links.map((l) => (
-                  <a
+                    // @ts-ignore
+                  p[l.name] !== "" && <a
                     key={l.name}
                     className="col-span-1 project-link"
                     // @ts-ignore
