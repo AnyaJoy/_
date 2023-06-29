@@ -6,7 +6,7 @@ Live: https://portfolio-2023-cdon.vercel.app
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -30,7 +30,7 @@ Users should be able to:
 - Be able to navigate to social medias and other links in footer
 - Hire me :)
 
-### Screenshot
+### Screenshots
 
 ![](./public/assets/screenshots/Screenshot_1.png)
 Home
@@ -55,11 +55,11 @@ I'm also happy how it got the "cosmos" vibe, although it wasn't planned, just ha
 ### What I learned
 
 - Not building everything fro scratch, but utilizing as many ready-to-go solutions as possible
-- Also definitely lifted my css skills
+- Definitely lifted my css skills
 
 ### Continued development
 
-In the future we would like to add features as:
+In the future I would like to add features as:
 
 - More meaningful projects to show off :)
 
