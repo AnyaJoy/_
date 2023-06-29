@@ -39,7 +39,7 @@ Home
 Projects with links to live website, source code and youtube video showing up on hover
 
 ![](./public/assets/screenshots/Screenshot_3.png)
-Footer with links and jighlighted link to CV in the navbar
+Footer with links and highlighted link to CV in the navbar
 
 ## My process
 I went over dozens of other developers' portfolios for reference. Noticed that many of them while looking impressive in turms of css animations were overwhelming for someone who's seeing the website for the first time. I wanted to combine both - make my portfolio creative with little animation and tricks here and there, while still keeping the user's focus on the main agenda of a portfolio.
