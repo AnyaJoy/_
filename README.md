@@ -6,7 +6,7 @@ Live: https://portfolio-2023-cdon.vercel.app
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshots](#screenshot)
+  - [Screenshots](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -43,6 +43,7 @@ Footer with links and highlighted link to CV in the navbar
 
 ## My process
 I went over dozens of other developers' portfolios for reference. Noticed that many of them while looking impressive in turms of css animations were overwhelming for someone who's seeing the website for the first time. I wanted to combine both - make my portfolio creative with little animation and tricks here and there, while still keeping the user's focus on the main agenda of a portfolio.
+
 I also didn't want to spend too much time on this project in terms of designing, so tried to utilize as many ready-to-go solutions as possible. I'm very happy with how it turned out. A lot of elements like buttons, sliders, carousel, scroll-to-top button, background pictures, pop-up messages etc were taken from free sources and adapted to the common design.
 I'm also happy how it got the "cosmos" vibe, although it wasn't planned, just happened along the way. All in all I really enjoyed the journey and the outcome. I like the place where creativity meets logic.
 
