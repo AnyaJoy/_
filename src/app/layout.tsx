@@ -2,7 +2,6 @@ import './globals.css';
 import { Inter } from 'next/font/google';
 import Head from 'next/head';
 import { Metadata } from 'next';
-import { Analytics } from '@vercel/analytics/react';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -22,7 +21,6 @@ export default function RootLayout({
         <meta property="og:title" content="Anya Joy | Full Stack Developer" key="title" />
       </Head>
       <body className={inter.className}>{children}</body>
-      <Analytics />
     </html>
   )
 }

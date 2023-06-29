@@ -9,6 +9,7 @@ import Footer from "@/components/sections/footer";
 import About from "@/components/sections/about";
 import ScrollToTop from "@/components/scrollToTop";
 import Toaster from "@/components/toaster";
+import { Analytics } from '@vercel/analytics/react';
 
 const AnimatedCursor = dynamic(() => import("react-animated-cursor"), {
   ssr: false,
@@ -18,6 +19,7 @@ export default function Home() {
 
   return (
     <>
+      <Analytics />
       <Header />
       <HomeScreen />
       <Projects />
