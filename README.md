@@ -1,34 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio
 
-## Getting Started
+Live: https://portfolio-2023-cdon.vercel.app
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### The challenge
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Users should be able to:
 
-## Learn More
+- View the optimal layout depending on their device's screen size
+- Navigate through content easily and intuitively
+- Be able to download CV (through nav bar button)
+- Be able to send an email (through nav bar button)
+- Be able to view projects and navigate to source code, live version and a video.
+- Some may find a hidden message when clicking on skills icons.
+- Be able to view photo carousel
+- Be able to navigate to social medias and other links in footer
+- Hire me :)
 
-To learn more about Next.js, take a look at the following resources:
+### Screenshot
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![](./public/assets/screenshots/Screenshot_1.png)
+Home
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![](./public/assets/screenshots/Screenshot_2.png)
+Projects with links to live website, source code and youtube video showing up on hover
 
-## Deploy on Vercel
+![](./public/assets/screenshots/Screenshot_3.png)
+Footer with links and jighlighted link to CV in the navbar
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## My process
+I went over dozens of other developers' portfolios for reference. Noticed that many of them while looking impressive in turms of css animations were overwhelming for someone who's seeing the website for the first time. I wanted to combine both - make my portfolio creative with little animation and tricks here and there, while still keeping the user's focus on the main agenda of a portfolio.
+I also didn't want to spend too much time on this project in terms of designing, so tried to utilize as many ready-to-go solutions as possible. I'm very happy with how it turned out. A lot of elements like buttons, sliders, carousel, scroll-to-top button, background pictures, pop-up messages etc were taken from free sources and adapted to the common design.
+I'm also happy how it got the "cosmos" vibe, although it wasn't planned, just happened along the way. All in all I really enjoyed the journey and the outcome. I like the place where creativity meets logic.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Built with
+
+- Next.JS
+- Tailwind CSS
+- Lots of libraries
+
+### What I learned
+
+- Not building everything fro scratch, but utilizing as many ready-to-go solutions as possible
+- Also definitely lifted my css skills
+
+### Continued development
+
+In the future we would like to add features as:
+
+- More meaningful projects to show off :)
+
+## Author
+
+Anya Joy - @AnyaJoy
+
+## Acknowledgments
+
+Kudos to all the people sharing free solutions online, you are my heroes!
